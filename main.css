@@ -1,0 +1,39 @@
+html, body{
+  padding: 0 5% 0 5%;
+}
+h1{
+  font-size: 5em;
+}
+h2 {
+  background-color: rgb(245, 245, 245);
+}
+#moviecol {
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.2);
+  background-color: rgb(245, 245, 245);
+}
+.movie {
+  margin: 2%;
+  padding: 5px;
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.2);
+  background-color: rgb(130, 130, 130);
+}
+#shipcol {
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.2);
+  background-color: rgb(245, 245, 245);
+}
+.ship {
+  margin: 2%;
+  padding: 5px;
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.2);
+  background-color: rgb(130, 130, 130);
+}
+#pilotcol {
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.2);
+  background-color: rgb(245, 245, 245);
+}
+.pilot {
+  margin: 2%;
+  padding: 5px;
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.2);
+  background-color: rgb(130, 130, 130);
+}
